@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+*.csv
+*.pdf
+*.R
+*.Rmd
+*.docx
+setup_git.sh
+token.txtsetup_git.sh
+setup_git.sh
+
