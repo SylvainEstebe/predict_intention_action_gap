@@ -10,18 +10,11 @@ The code was developed and tested on a MacBook Pro with macOS (Sonoma 14.4.1, py
 
 ## Repository structure
 ```
-├── data 
-│   ├──
-│   ├──
-│   ├── 
+├── data   (publicly unavailable data)
 ├── fig
-│   ├──
-│   ├──
-│   ├── 
 ├── model
-│   ├── 
 ├── src                                   
-│   ├──
+│   ├── predictive_notebook.ipynb
 ├── .gitignore
 ├── README.md
 ├── setup.sh 
