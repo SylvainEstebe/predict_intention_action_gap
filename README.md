@@ -10,20 +10,9 @@ The code was developed and tested on a MacBook Pro with macOS (Sonoma 14.4.1, py
 
 ## Repository Structure
 ```
-├── data 
-├── fig
-│   ├── correlation_matrix.png       # Correlation matrix figure
-│   ├── intention_combined_output.png# Intention combined output figure
-│   ├── Q1_confusion_matrix.png      # Confusion matrix for Question 1
-│   ├── Q1_features_importance.png   # Features importance for Question 1
-│   ├── Q1_features_sum.png          # Features summary for Question 1
-│   ├── Q1_features_sum_improved.png # Improved features summary for Question 1
-│   ├── Q1_model_performance_precision.png # Model performance (precision) for Q1
-│   ├── Q2_features_importance.png   # Features importance for Question 2
-│   ├── Q2_confusion_matrix.png      # Confusion matrix for Question 2
-│   ├── Q2_features_sum.png          # Features summary for Question 2
-│   ├── Q2_model_performance_precision.png # Model performance (precision) for Q2
-├── models
+├── data # data not publicy available
+├── fig # result plot
+├── models 
 ├── .gitignore
 ├── README.md
 ├── setup.sh 
