@@ -10,15 +10,15 @@ The code was developed and tested on a MacBook Pro with macOS (Sonoma 14.4.1, py
 
 ## Repository Structure
 ```
-├── data # data not publicy available
-├── fig # result plot
-├── models 
-├── .gitignore
-├── README.md
-├── setup.sh 
-├── requirements.txt
+├── data                                 # Data not publicly available
+├── fig                                  # Result plots
+├── models                               # Trained models and model outputs
+├── .gitignore                           # Git ignore file
+├── README.md                            # Project description and instructions
+├── setup.sh                             # Shell script for environment setup
+├── requirements.txt                     # List of Python dependencies
 ├── src
-│   ├── analysis.ipynb                   # Jupyter notebook for detailed analysis
+│   ├── analysis.ipynb                   # Jupyter notebook
 ```
 
 ## Instructions
