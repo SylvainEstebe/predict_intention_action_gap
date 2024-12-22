@@ -1,4 +1,4 @@
-# Data Science Exam - Inequality and Childcare
+# Data Science Project - Inequality and Childcare
 
 This repository holds the code for the final project for Data Science (S2024). This includes data preprocessing, model fitting, and result plotting.
 
